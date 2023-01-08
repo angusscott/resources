@@ -8,7 +8,11 @@ A collection of useful documentation and libraries I've encountered
 * https://akkadia.org/drepper/cpumemory.pdf
 * https://www.amd.com/system/files/TechDocs/56263-EPYC-performance-tuning-app-note.pdf
 * https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/
+* Proof Engineering: https://medium.com/@preraksanghvi
 
 Patterns:
 * https://en.wikipedia.org/wiki/Reactor_pattern
 * https://www.baeldung.com/lock-free-programming
+
+Technical Writing: 
+* https://developers.google.com/tech-writing/overview
