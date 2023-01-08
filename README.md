@@ -9,6 +9,7 @@ A collection of useful documentation and libraries I've encountered
 * https://www.amd.com/system/files/TechDocs/56263-EPYC-performance-tuning-app-note.pdf
 * https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/
 * Proof Engineering: https://medium.com/@preraksanghvi
+* https://pypi.org/project/exchange-calendars/
 
 Patterns:
 * https://en.wikipedia.org/wiki/Reactor_pattern
